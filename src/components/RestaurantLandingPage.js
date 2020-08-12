@@ -128,9 +128,9 @@ export default () => {
         subheading=""
         heading={<>Customers <HighlightedText>Love Us.</HighlightedText></>}
       />
-      <DownloadApp
+      {/* <DownloadApp
         text={<>People around you are ordering delicious meals using the <HighlightedTextInverse>eatFitClub App.</HighlightedTextInverse></>}
-      />
+      /> */}
       <Footer />
     </AnimationRevealPage>
   );
