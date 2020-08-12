@@ -157,7 +157,7 @@ export default ({
   const [activeTab, setActiveTab] = useState(tabsKeys[0]);
 
   return (
-    <Container>
+    <Container id="menu">
       <ContentWithPaddingXl>
         <HeaderRow>
           <Header>{heading}</Header>

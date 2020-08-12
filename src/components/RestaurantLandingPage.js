@@ -33,7 +33,7 @@ export default () => {
         watchVideoButtonText="Meet The Chefs"
       />
       <MainFeature
-        subheading={<Subheading>Established Since 2014</Subheading>}
+        subheading={<Subheading>Established Since 2019</Subheading>}
         heading={
           <>
             We've been serving for
@@ -129,7 +129,7 @@ export default () => {
         heading={<>Customers <HighlightedText>Love Us.</HighlightedText></>}
       />
       <DownloadApp
-        text={<>People around you are ordering delicious meals using the <HighlightedTextInverse>Treact App.</HighlightedTextInverse></>}
+        text={<>People around you are ordering delicious meals using the <HighlightedTextInverse>eatFitClub App.</HighlightedTextInverse></>}
       />
       <Footer />
     </AnimationRevealPage>
